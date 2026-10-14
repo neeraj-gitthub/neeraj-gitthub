@@ -2,6 +2,8 @@
 
 A Power BI project package for the supplied single-page telco churn dashboard.
 
+Published in the public GitHub repository: https://github.com/neeraj-gitthub/neeraj-gitthub/tree/main/projects/telco-customer-churn-dashboard
+
 ## Project files
 
 - `Telco-Customer-Churn-Dashboard.pbix` - the supplied Power BI report.
